@@ -1,0 +1,25 @@
+[33mcommit 74e41bca0f0480bda7c4f3e0faf6fd235acc0be6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Waffelka <ee897892@gmail.com>
+Date:   Tue Jan 16 20:22:03 2024 +0300
+
+    Revert "1234123"
+    
+    This reverts commit 72cfa7c6f3795c2d887c377df06745132d84d9af.
+
+[33mcommit 7265ab2a35909a35073348c6c35aa9bef39de9fb[m
+Author: Waffelka <ee897892@gmail.com>
+Date:   Tue Jan 16 20:11:13 2024 +0300
+
+    Main files
+
+[33mcommit efa793fca1d6596f5e36d97c2b26c7e9b1da693b[m
+Author: Егор <ee897892@gmail.com>
+Date:   Mon Jan 15 10:05:43 2024 +0300
+
+    Python
+
+[33mcommit 72cfa7c6f3795c2d887c377df06745132d84d9af[m
+Author: Егор <ee897892@gmail.com>
+Date:   Mon Jan 15 10:01:26 2024 +0300
+
+    1234123
